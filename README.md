@@ -6,7 +6,7 @@ Be creative with the test (make it look nice) as this helps us to establush crea
 
 There are 3 tasks in total. The first can be found on app.component.ts
 
-Once completed please commit your changes to the repository for assessment.
+Once completed please commit your changes to the repository for assessment. Please remember that you will have to create a fork and once completed (changes committed) you will need to do a pull request
 
 
 REMEMBER: Enjoy it. Coding is fun!
