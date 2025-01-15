@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 
 This is a quick test to establish a benchmark af your angular knowladge and skills. There is no time limmit but please make use of your own coding and style (no copy and paste)
 
@@ -11,7 +11,7 @@ Once completed please commit your changes to the repository for assessment.
 
 REMEMBER: Enjoy it. Coding is fun!
 
-# BenchmarkTest
+## BenchmarkTest
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.7.
 
