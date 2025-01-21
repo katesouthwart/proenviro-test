@@ -1,3 +1,14 @@
+# Notes from Kaitlyn
+Thank you for taking the time to review my benchmark test. This was my first time using angular, and I enjoyed setting up this project a lot.
+I built the product directory from a back-of-house/company perspective, rather than customer-facing. 
+
+If I had more time in future, next steps would include:
+- Adding pagination to the product directory.
+- With more information and scope for the project, having category directories which could be linked to from the category on each product component.
+
+
+------------------
+
 # Instructions
 
 This is a quick test to establish a benchmark af your angular knowladge and skills. There is no time limmit but please make use of your own coding and style (no copy and paste)
