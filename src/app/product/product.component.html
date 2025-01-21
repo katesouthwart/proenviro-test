@@ -1,0 +1,18 @@
+<div class="py-5 relative w-full flex flex-row flex-wrap justify-center">
+  <div class="w-3/4 text-left">
+    <p class="font-bold">ID: <span class="font-normal">{{product.id}} -</span> {{product.title}}</p>
+    <p>{{product.description}}</p>
+  </div>
+
+  <div  class="w-1/4 text-right">
+    <!-- Link for categories, for hypothetical link to category directories -->
+    <a routerLink="#" class="text-green-medium hover:underline hover:cursor-pointer w-full">{{product.category}}</a>
+    <p class="w-full">Stock: {{product.stock}}</p>
+    <div class="bg-surface-0 dark:bg-surface-900 flex items-center gap-2 justify-center py-1 px-2 w-2/5 ml-auto" style="border-radius: 30px; box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.04), 0px 1px 2px 0px rgba(0, 0, 0, 0.06)">
+      <span class="text-surface-900 dark:text-surface-0 font-medium text-sm">{{product.rating}}</span>
+      <i class="pi pi-star-fill text-yellow-500"></i>
+    </div>
+  </div>
+  
+<hr class="w-3/4 h-px mt-10 bg-green-light border-0">
+</div>

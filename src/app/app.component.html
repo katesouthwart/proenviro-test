@@ -1,4 +1,21 @@
-<h1>{{intro}}</h1>
+<div class="relative w-full flex flex-row flex-wrap mt-[50px] justify-center">
+  <h1 class="w-full max-w-[550px] text-center text-[48px] sm:text-[60px]">{{pagetitle}}</h1>
+  <h2 class="w-full text-center text-green-medium">{{subtitle}}</h2>
+</div>
+
+<div class="relative flex w-full justify-center flex-wrap">
+  <div class="relative w-full">
+    <app-menu></app-menu>
+  </div>
+
+  <div class="relative w-full text-center px-[50px]">
+    <router-outlet></router-outlet>
+  </div>
 
 
-<router-outlet />
+</div>
+
+
+
+
+
